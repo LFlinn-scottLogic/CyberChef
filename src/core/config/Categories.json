@@ -101,6 +101,8 @@
             "RC2 Decrypt",
             "RC4",
             "RC4 Drop",
+            "RC6 Encrypt",
+            "RC6 Decrypt",
             "ChaCha",
             "Salsa20",
             "XSalsa20",
