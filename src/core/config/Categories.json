@@ -99,6 +99,8 @@
             "LS47 Decrypt",
             "RC2 Encrypt",
             "RC2 Decrypt",
+            "RC6 Encrypt",
+            "RC6 Decrypt",
             "RC4",
             "RC4 Drop",
             "ChaCha",
